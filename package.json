@@ -1,0 +1,25 @@
+{
+  "name": "bus-finder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A tool for looking up the next buses due at a given stop in the city of Ottawa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philmcgarty/bus-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philmcgarty/bus-finder/issues"
+  },
+  "homepage": "https://github.com/philmcgarty/bus-finder#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3"
+  }
+}
